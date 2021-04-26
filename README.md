@@ -4,3 +4,4 @@ Bonjour!
 Hola!
 Guten tag!
 Marhaban!
+Hello in Navajo!
