@@ -1,6 +1,6 @@
-Hello!
-Xin chao!
 Bonjour!
-Hola!
-Guten tag!
-Marhaban!
+Bonjour!
+Bonjour!
+Bonjour!
+Bonjour!
+Bonjour!
